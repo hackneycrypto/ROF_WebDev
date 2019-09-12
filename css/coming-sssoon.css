@@ -746,6 +746,9 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
 }
 .main .motto{
     min-height: 140px;
+    font-family: 'transat', sans-serif;
+    font-style: normal;
+    font-weight: 300;
 }
 .main .motto, .main .subscribe .info-text{
     font-size: 28px;
@@ -753,6 +756,9 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
     text-shadow: 0 1px 4px rgba(0, 0, 0, 0.33);
     text-align: center;
     margin-top: 50px;
+    font-family: 'transat', sans-serif;
+    font-style: normal;
+    font-weight: 300;
     
 }
 .main .subscribe .info-text{
